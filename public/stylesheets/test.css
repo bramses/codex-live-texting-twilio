@@ -1,0 +1,11 @@
+
+body {
+  background-image: url("https://media.giphy.com/media/caJ3e5mubnTEY/giphy.gif");
+  background-size: cover;
+}
+h1, h2, h3 {
+  color: orange;
+}
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
