@@ -6,6 +6,34 @@ body {
 h1, h2, h3 {
   color: orange;
 }
-body {
-  font-family: "Comic Sans MS", cursive, sans-serif;
+h1 {
+  font-family: Comic Sans MS;
 }
+h2 {
+  font-family: Comic Sans MS;
+}
+h3 {
+  font-family: Comic Sans MS;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </style>
