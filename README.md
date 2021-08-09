@@ -1,3 +1,3 @@
 # Codex Live Texting Twilio Demo
 
-![demo vid](burritos.mp4)
+Demo Vid: https://youtu.be/u5eESXNeHkw
